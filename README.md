@@ -1,6 +1,6 @@
 ### MBTA Passenger Pickup Efficiency
 
-####**Authors:**
+#### **Authors:**
 - Nicholas El Habr
 - Ilia Xheblati
 - Venkata Krishna Rao, Chelamkuri
