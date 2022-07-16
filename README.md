@@ -1,10 +1,63 @@
-### MBTA Passenger Pickup Efficiency
+# &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Project Proposal
 
-#### **Authors:**
-- Nicholas El Habr
-- Ilia Xheblati
-- Venkata Krishna Rao, Chelamkuri
+# MBTA Passenger Pickup Efficiency
 
-Github:
-	The MBTA has been running for quite a while, serving the citizens of the inner and greater boston area. From students, to elders, nurses, doctors, there is no doubt that the positive impact it has made is life changing. It is cheap, convenient, reaches most major hotspots, and time friendly. With that being said, all these developments in technology that are being observed, one can’t help but think: How can we apply these advancements to help make it more efficient, and reach full functionality without inflicting too much change that disrupts the mundane activities of the MBTA’s users. One of the most effective methods is observing data channels such as hotspots, crowded stations, hours of the day, days of the week, and accordingly adjust timetables and/or routes to make sure that there is almost no “waste” of any sort. Be it time, space, or energy, there are a lot of factors that go into making that decision. Essentially we will be conducting a data study where we hope to identify key elements that can create a new way of living for commuting Bostonians and add a component of ease in their lives.
+**MBTA** ([Massachusetts Bay Transport Authority](https://en.wikipedia.org/wiki/Massachusetts_Bay_Transportation_Authority)) is the public agency responsible for operating most public transportation services in Greater Boston, Massachusetts. It's Annual Ridership stands at 160 Million making it one of the most used, popular urban transport anywhere is the USA. From students, to elders, nurses, doctors, there is no doubt that the positive impact it has made is life changing. It is cheap, convenient, reaches most major hotspots, and time friendly. With that being said, The MBTA has been running into a lot of service disruptions and cost-overrruns for quite a while for numerous reasons.<br>
+
+Recent developements in technology in the domain of Data Science and Machine Learning, one can’t help but think: **How can we apply these advancements in Data Anlysis to help make it more efficient, and reach full functionality.** One of the most effective methods is observing data channels such as hotspots, crowded stations, hours of the day, days of the week, and accordingly adjust timetables and/or routes to make the routes more efficient. Be it time, space, or energy, there are a lot of factors that go into making that decision. Essentially we will be conducting a data study where we hope to identify key "pain points" that could be addrressed further to make it truly a world-class and efficient urban transportation services.
+
+### Data Sources
+
+This repository provides a fictional example of a project proposal for DS5110, Summer 2022.
+It's based on the [vaccines project](http://ds5010/vaccines) completed by Portland students in 
+the Spring 2022 version of DS 5010.
+Their project was eventually put in a publicly accessible repository and included a 
+github-pages (gh-pages) site: [ds5010.github.io/vaccines](ds5010.github.io/vaccines).
+You can use this repo as guidance for creating your own project proposal.
+Additional guidance is in the [course repo](https://github.com/ds5110/summer-2022/blob/main/projects/projects.md).
+
+### Project partners
+
+* Student #1 (identify partner by name -- the entire team should use this partner's github-classroom repo for the project)
+* Student #2 (ditto)
+* Student #3 (ditto)
+
+## Goal
+
+The project goal is to develop a predictive model for COVID-19 vaccine effectiveness 
+at the county level based on death rate and possibly other socioeconomic factors.
+We'll start by investigating the relationship between 
+vaccination rate and death rate. 
+We'll be careful to determine time-dependence, since vaccines were rolled out in May 2021 and 
+probably had their maximum effectiveness the following November, as mentioned
+in [this NPR story](https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate), which is where we developed the idea for this project.
+
+## Data
+
+Primary sources of data will be CDC and Johns Hopkins university.
+
+* [CDC](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County)
+* [Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
+
+## Stakeholder
+
+This could be a faculty member or someone from an organization with an interest in this problem who
+would be willing to provide feedback on your prototypes.
+
+## Preliminary result
+
+The figure shows vaccination rate versus population for each county in the U.S. 
+It was created using a CSV file downloaded from obtained from the CDC site listed above.
+
+![](figs/fig1.png)
+
+Recreate this figure with the following command:
+
+```
+python src/app.py
+```
+
+## Project plan
+
+[plan.md](plan.md)
 
