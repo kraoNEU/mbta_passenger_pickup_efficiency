@@ -4,7 +4,7 @@
 
 Recent developements in technology in the domain of Data Science and Machine Learning, one can’t help but think: **How can we apply these advancements in Data Anlysis to help make it more efficient, and reach full functionality.** One of the most effective methods is observing data channels such as hotspots, crowded stations, hours of the day, days of the week, and accordingly adjust timetables and/or routes to make the routes more efficient. Be it time, space, or energy, there are a lot of factors that go into making that decision. Essentially we will be conducting a data study where we hope to identify key "pain points" that could be addrressed further to make it truly a world-class and efficient urban transportation services.
 
-### Data Sources
+## Data Sources
 
 This repository provides a fictional example of a project proposal for DS5110, Summer 2022.
 It's based on the [vaccines project](http://ds5010/vaccines) completed by Portland students in 
