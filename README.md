@@ -14,9 +14,9 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 ## Project partners
 
-* Student #1 (identify partner by name -- the entire team should use this partner's github-classroom repo for the project)
-* Student #2 (ditto)
-* Student #3 (ditto)
+* Venkata Krishna Rao, Chelamkuri (**Repo Admin**, **Project Collaborator**)
+* Nicholas El Habr, (**Project Collaborator**)
+* Ilia Xheblati (**Project Collaborator**)
 
 ## Goal
 
@@ -27,13 +27,6 @@ vaccination rate and death rate.
 We'll be careful to determine time-dependence, since vaccines were rolled out in May 2021 and 
 probably had their maximum effectiveness the following November, as mentioned
 in [this NPR story](https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate), which is where we developed the idea for this project.
-
-## Data
-
-Primary sources of data will be CDC and Johns Hopkins university.
-
-* [CDC](https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County)
-* [Johns Hopkins](https://github.com/CSSEGISandData/COVID-19)
 
 ## Stakeholder
 
