@@ -20,35 +20,11 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 **GitHub Repo Link:** [Click Here](https://github.com/kraoNEU/mbta_passenger_pickup_efficiency#goal)
 
-## Goal
+## Exploratory Data Analysis
 
-The project goal is to develop a predictive model for COVID-19 vaccine effectiveness 
-at the county level based on death rate and possibly other socioeconomic factors.
-We'll start by investigating the relationship between 
-vaccination rate and death rate. 
-We'll be careful to determine time-dependence, since vaccines were rolled out in May 2021 and 
-probably had their maximum effectiveness the following November, as mentioned
-in [this NPR story](https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate), which is where we developed the idea for this project.
+## Project Plan
 
-## Stakeholder
+**For Project Plan milestones/timeline/roles and responsibilities:** <br>
+Click on the Link: [Click Here]()
 
-This could be a faculty member or someone from an organization with an interest in this problem who
-would be willing to provide feedback on your prototypes.
-
-## Preliminary result
-
-The figure shows vaccination rate versus population for each county in the U.S. 
-It was created using a CSV file downloaded from obtained from the CDC site listed above.
-
-![](figs/fig1.png)
-
-Recreate this figure with the following command:
-
-```
-python src/app.py
-```
-
-## Project plan
-
-[plan.md](plan.md)
-
+## Stakeholder for the Project:
