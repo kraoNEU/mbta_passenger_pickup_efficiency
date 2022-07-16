@@ -6,15 +6,13 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 ## Data Sources
 
-This repository provides a fictional example of a project proposal for DS5110, Summer 2022.
-It's based on the [vaccines project](http://ds5010/vaccines) completed by Portland students in 
-the Spring 2022 version of DS 5010.
-Their project was eventually put in a publicly accessible repository and included a 
-github-pages (gh-pages) site: [ds5010.github.io/vaccines](ds5010.github.io/vaccines).
-You can use this repo as guidance for creating your own project proposal.
-Additional guidance is in the [course repo](https://github.com/ds5110/summer-2022/blob/main/projects/projects.md).
+**The Data is being taken from the MBTA's latest V3 API:**<br>
 
-### Project partners
+- [MBTA Documentation for V3 API](https://api-v3.mbta.com/docs/swagger/index.html)
+- [MBTA V3 API key Request](https://api-v3.mbta.com/portal)
+- [MBTA V3 API Website](https://www.mbta.com/developers/v3-api)
+
+## Project partners
 
 * Student #1 (identify partner by name -- the entire team should use this partner's github-classroom repo for the project)
 * Student #2 (ditto)
