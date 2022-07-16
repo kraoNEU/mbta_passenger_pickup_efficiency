@@ -25,6 +25,6 @@ With Recent developments in technology in the domain of Data Science and Machine
 ## Project Plan
 
 **For Project Plan Milestones / Timelines / Roles and Responsibilities:** <br>
-Click on the Link: [Click Here]()
+**Click on the Link:** [Click Here]()
 
 ## Stakeholder for the Project:
