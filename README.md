@@ -4,8 +4,6 @@
 
 With Recent developments in technology in the domain of Data Science and Machine Learning, one can’t help but think: **How can we apply these advancements in Data Analysis to help make it more efficient, and reach full functionality.** One of the most effective methods is observing data channels such as hotspots, crowded stations, hours of the day, days of the week, and accordingly adjust timetables and/or routes to make the routes more efficient. Be it time, space, or energy, there are a lot of factors that go into making that decision. Essentially we will be conducting a data study where we hope to identify key "pain points" that could be addressed further to make it truly a world-class and efficient urban transportation service.<br>
 
-**GitHub Repo Link:** [Click Here](https://github.com/kraoNEU/mbta_passenger_pickup_efficiency#goal)
-
 ## Data Sources
 
 **The Data is being taken from the MBTA's latest V3 API:**<br>
