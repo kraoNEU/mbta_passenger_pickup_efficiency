@@ -9,14 +9,16 @@ With Recent developments in technology in the domain of Data Science and Machine
 **The Data is being taken from the MBTA's latest V3 API:**<br>
 
 - [MBTA Documentation for V3 API](https://api-v3.mbta.com/docs/swagger/index.html)
-- [MBTA V3 API key Request](https://api-v3.mbta.com/portal)
+- [MBTA V3 API Key Request](https://api-v3.mbta.com/portal)
 - [MBTA V3 API Website](https://www.mbta.com/developers/v3-api)
 
 ## Project partners
 
 * Venkata Krishna Rao, Chelamkuri (**Repo Admin**, **Project Collaborator**)
 * Nicholas El Habr, (**Project Collaborator**)
-* Ilia Xheblati (**Project Collaborator**)
+* Ilia Xheblati (**Project Collaborator**)<br>
+
+**GitHub Repo Link:** [Click Here](https://github.com/kraoNEU/mbta_passenger_pickup_efficiency#goal)
 
 ## Goal
 
