@@ -31,6 +31,6 @@ This figure could be reproduced by `make app1`
 ## Project Plan
 
 **For Project Plan Milestones / Timelines / Roles and Responsibilities:** <br>
-**Click on the Link:** [Click Here]()
+**Click on the Link:** [Click Here](plan.md)
 
 ## Stakeholder for the Project
