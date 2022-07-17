@@ -34,3 +34,4 @@ This figure could be reproduced by `make app1`
 **Click on the Link:** [Click Here](plan.md)
 
 ## Stakeholder for the Project
+Ilia is working on a consulting project for the [MBTA](https://www.linkedin.com/posts/be-edge_meet-the-team-massachusetts-bay-transportation-activity-6940316466185416704-K4YX?utm_source=linkedin_share&utm_medium=member_desktop_web). The consulting team, whom Ilia is working with, did not have time to analyze MBTA public data to make a data driven decision. Ilia presented this challenge to Krishna and Nicholas. We all decided to work together to analyze the MBTA public data and share our findings with the consulting team and our MBTA stakeholder, Eric Burkman, Director of Transit Priority at MBTA.
