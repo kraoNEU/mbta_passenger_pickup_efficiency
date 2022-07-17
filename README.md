@@ -20,6 +20,14 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 ## Exploratory Data Analysis
 
+The Preliminary Data has been extracted from the MBTA V3 API after unpacking the .json file and the unpacking of the various nested .json tags we were able to analyse the 
+most popular and most used MBTA transport services which was Local Bus, Followed by Commuter bus and Rail.
+We need to Dwelve a little bit deeper to understand the various load factors and the foot-fall which happens at these various modes of transportation as seen in the figure down below. <br>
+
+![Image Showing Popular MBTA Modes of Transportation Services](figures/mbta_modes_of_transport.png)
+
+This figure could be reproduced by `make app1`
+
 ## Project Plan
 
 **For Project Plan Milestones / Timelines / Roles and Responsibilities:** <br>
