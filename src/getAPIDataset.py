@@ -8,13 +8,15 @@ class getAPIDataset:
     Input:
         apiURL: Give the Complete API URL with the Key Included
         csv_file_location: Give the .CSV file name
+        dictionary_key: Gets the Dictionary key
+        data_attributes: Gets all the Dictionary Values for the Specific Attribute
     returns: None
     """
 
-    def getAPIdata(apiURL, csv_file_name):
+    # Specifying the Dictionary values to extract the data.
+    # Need to change different values based on the type being returned
+    def getAPIdata(apiURL, csv_file_name, dictionary_key="data", data_attributes="attributes"):
 
-        dictionary_key = "data"
-        data_attributes = "attributes"
         response_API = requests.get(apiURL)
         data = response_API.text
 
