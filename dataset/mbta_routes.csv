@@ -1,0 +1,630 @@
+bikes_allowed,block_id,direction_id,headsign,name,wheelchair_accessible
+1,C57-139,1,Haymarket via Kenmore,,1
+1,C57-139,0,Watertown via Kenmore,,1
+1,C57-145,1,Kenmore,,1
+1,C57-145,0,Watertown Yard,,1
+1,C57-145,1,Kenmore,,1
+1,C57-145,0,Watertown Yard,,1
+1,C57-145,1,Kenmore,,1
+1,C57-145,0,Watertown Yard,,1
+1,C57-145,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-142,1,Kenmore,,1
+1,C57-142,0,Watertown Yard,,1
+1,C57-142,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-142,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-143,1,Kenmore,,1
+1,C57-142,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-142,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-143,1,Kenmore,,1
+1,C57-142,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-142,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-143,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-143,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-146,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-143,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-150,1,Kenmore,,1
+1,C57-150,0,Watertown Yard,,1
+1,C57-150,1,Kenmore,,1
+1,C57-150,1,Kenmore,,1
+1,C57-150,0,Watertown Yard,,1
+1,C57-150,0,Watertown Yard,,1
+1,C57-150,0,Watertown Yard,,1
+1,C57-150,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-143,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,1,Kenmore,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-139,1,Kenmore,,1
+1,C57-148,1,Kenmore,,1
+1,C57-139,0,Watertown Yard,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-148,0,Watertown Yard,,1
+1,C57-139,1,Kenmore,,1
+1,C57-139,1,Kenmore,,1
+1,C57-139,0,Watertown Yard,,1
+1,C57-139,0,Watertown Yard,,1
+1,C57-139,1,Kenmore,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-143,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-143,1,Kenmore,,1
+1,C57-140,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-143,0,Watertown Yard,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-144,1,Kenmore,,1
+1,C57-144,0,Watertown Yard,,1
+1,C57-143,1,Kenmore,,1
+1,C57-146,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-147,1,Kenmore,,1
+1,C57-149,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-146,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-140,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-146,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-147,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-147,0,Watertown Yard,,1
+1,C57-141,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-146,1,Kenmore,,1
+1,C57-141,0,Watertown Yard,,1
+1,C57-146,0,Watertown Yard,,1
+1,C57-149,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-150,1,Kenmore,,1
+1,C57-150,0,Watertown Yard,,1
+1,C57-150,1,Kenmore,,1
+1,C57-149,0,Watertown Yard,,1
+1,C57-140,1,Kenmore,,1
+1,C01-4,1,Kenmore,,1
+1,C01-4,0,Watertown Yard,,1
+1,C01-4,1,Kenmore,,1
+1,C01-4,0,Watertown Yard,,1
+1,C01-4,1,Kenmore,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-105,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-105,1,Kenmore,,1
+1,C01-4,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C01-4,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-110,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-110,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-112,1,Kenmore,,1
+1,C57-105,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-105,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-105,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-105,1,Kenmore,,1
+1,C57-106,0,Watertown Yard,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-113,0,Watertown Yard,,1
+1,C57-106,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-113,1,Kenmore,,1
+1,C57-108,0,Watertown Yard,,1
+1,C57-110,1,Kenmore,,1
+1,C57-111,0,Watertown Yard,,1
+1,C57-112,1,Kenmore,,1
+1,C57-113,0,Watertown Yard,,1
+1,C57-108,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-112,0,Watertown Yard,,1
+1,C57-111,1,Kenmore,,1
+1,C57-108,0,Watertown Yard,,1
+1,C57-113,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-114,0,Watertown Yard,,1
+1,C57-113,0,Watertown Yard,,1
+1,C57-108,1,Kenmore,,1
+1,C57-110,0,Watertown Yard,,1
+1,C57-114,1,Kenmore,,1
+1,C57-108,0,Watertown Yard,,1
+1,C57-113,1,Kenmore,,1
+1,C57-110,1,Kenmore,,1
+1,C57-114,0,Watertown Yard,,1
+1,C57-108,1,Kenmore,,1
+1,C57-115,0,Watertown Yard,,1
+1,C57-107,0,Watertown Yard,,1
+1,C57-114,1,Kenmore,,1
+1,C57-108,0,Watertown Yard,,1
+1,C57-115,1,Kenmore,,1
+1,C57-114,0,Watertown Yard,,1
+1,C57-107,1,Kenmore,,1
+1,C57-115,0,Watertown Yard,,1
+1,C57-114,1,Kenmore,,1
+1,C57-107,0,Watertown Yard,,1
+1,C57-115,1,Kenmore,,1
+1,C57-114,0,Watertown Yard,,1
+1,C57-107,1,Kenmore,,1
+1,C57-115,0,Watertown Yard,,1
+1,C57-114,1,Kenmore,,1
+1,C57-107,0,Watertown Yard,,1
+1,C57-114,0,Watertown Yard,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,0,Watertown Yard,,1
+1,C57-109,1,Kenmore,,1
+1,C57-109,1,Kenmore,,1
+1,A08-7,1,Haymarket via Kenmore,,1
+1,A08-7,0,Watertown via Kenmore,,1
+1,A08-9,0,Watertown Yard,,1
+1,A08-9,1,Kenmore,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-25,1,Kenmore,,1
+1,A57-25,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-27,1,Kenmore,,1
+1,A57-27,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-31,1,Kenmore,,1
+1,A57-31,0,Watertown Yard,,1
+1,A57-29,1,Kenmore,,1
+1,A57-29,0,Watertown Yard,,1
+1,A57-29,1,Kenmore,,1
+1,A57-29,0,Watertown Yard,,1
+1,A57-29,1,Kenmore,,1
+1,A57-29,0,Watertown Yard,,1
+1,A57-29,1,Kenmore,,1
+1,A57-29,0,Watertown Yard,,1
+1,A57-29,1,Kenmore,,1
+1,A57-29,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-26,1,Kenmore,,1
+1,A57-26,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-32,1,Kenmore,,1
+1,A57-32,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-33,0,Watertown Yard,,1
+1,A57-33,1,Kenmore,,1
+1,A57-34,0,Watertown Yard,,1
+1,A57-34,1,Kenmore,,1
+1,A57-34,0,Watertown Yard,,1
+1,A57-28,1,Kenmore,,1
+1,A57-28,0,Watertown Yard,,1
+1,A57-28,1,Kenmore,,1
+1,A57-28,0,Watertown Yard,,1
+1,A57-28,1,Kenmore,,1
+1,A57-30,0,Watertown Yard,,1
+1,A57-30,1,Kenmore,,1
+1,A57-30,0,Watertown Yard,,1
+1,A57-30,1,Kenmore,,1
+1,A57-30,0,Watertown Yard,,1
+1,A57-30,1,Kenmore,,1
+1,A57-30,0,Watertown Yard,,1
+1,A57-30,1,Kenmore,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-213,0,Watertown Yard,,1
+1,C57-213,1,Kenmore,,1
+1,C57-219,0,Watertown Yard,,1
+1,C57-219,1,Kenmore,,1
+1,C57-219,0,Watertown Yard,,1
+1,C57-219,1,Kenmore,,1
+1,C57-219,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-216,1,Kenmore,,1
+1,C57-216,0,Watertown Yard,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-215,1,Kenmore,,1
+1,C57-215,0,Watertown Yard,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-217,1,Kenmore,,1
+1,C57-217,0,Watertown Yard,,1
+1,C57-214,0,Watertown Yard,,1
+1,C57-214,1,Kenmore,,1
+1,C57-214,0,Watertown Yard,,1
+1,C57-214,1,Kenmore,,1
+1,C57-214,0,Watertown Yard,,1
+1,C57-214,1,Kenmore,,1
+1,C57-214,0,Watertown Yard,,1
+1,C57-214,1,Kenmore,,1
+1,C57-218,0,Watertown Yard,,1
+1,C57-218,1,Kenmore,,1
+1,C57-218,0,Watertown Yard,,1
+1,C57-218,1,Kenmore,,1
+1,C57-218,0,Watertown Yard,,1
+1,C57-218,1,Kenmore,,1
+1,C57-218,0,Watertown Yard,,1
