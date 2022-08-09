@@ -4,13 +4,31 @@
 
 With Recent developments in technology in the domain of Data Science and Machine Learning, one can’t help but think: **How can we apply these advancements in Data Analysis to help make it more efficient, and reach full functionality.** One of the most effective methods is observing data channels such as hotspots, crowded stations, hours of the day, days of the week, and accordingly adjust timetables and/or routes to make the routes more efficient. Be it time, space, or energy, there are a lot of factors that go into making that decision. Essentially we will be conducting a data study where we hope to identify key "pain points" that could be addressed further to make it truly a world-class and efficient urban transportation service.<br>
 
-## Data Sources
+# Data Sources
 
-**The Data is being taken from the MBTA's latest V3 API:**<br>
+## Intiall Exploration: The Data is being taken from the MBTA's latest V3 API:**<br>
 
 - [MBTA Documentation for V3 API](https://api-v3.mbta.com/docs/swagger/index.html)
 - [MBTA V3 API Key Request](https://api-v3.mbta.com/portal)
 - [MBTA V3 API Website](https://www.mbta.com/developers/v3-api)
+
+## Update: We had issues with the API so we downloaded csv files that MBTA shared on their website (Massachusetts Bay Transportation Authority Open Data Portal).
+
+**Ridership: Explore passenger volume data**
+
+- Title: MBTA Bus Ridership by Trip, Season, Route/Line, and Stop. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-trip-season-route-line-and-stop/about. 
+- Title: MBTA Bus Ridership by Time Period, Season, Route/Line, and Stop. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop/about. 
+- Title: MBTA Bus Ridership by Time Period Season Route/Line and Stop - Spring. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop-spring/about
+<br>
+
+**Performance: Explore data sets that assess how well the MBTA system is operating.**
+
+- Title: MBTA Bus Arrival Departure Times 2018. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2018/about
+- Title: MBTA Bus Arrival Departure Times 2019. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2019/about
+- Title: MBTA Bus Arrival Departure Times 2020. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2020/about
+- Title: MBTA Bus Arrival Departure Times 2021. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2021/about
+- Title: MBTA Bus Arrival Departure Times 2022. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2022/about
+
 
 ## Project partners
 
