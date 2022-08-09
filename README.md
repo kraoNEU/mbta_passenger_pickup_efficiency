@@ -16,18 +16,17 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 **Ridership: Explore passenger volume data**
 
-- Title: MBTA Bus Ridership by Trip, Season, Route/Line, and Stop. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-trip-season-route-line-and-stop/about. 
-- Title: MBTA Bus Ridership by Time Period, Season, Route/Line, and Stop. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop/about. 
-- Title: MBTA Bus Ridership by Time Period Season Route/Line and Stop - Spring. Source: https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop-spring/about
-<br>
+- [MBTA Bus Ridership by Trip, Season, Route/Line, and Stop](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-trip-season-route-line-and-stop/about) 
+- [MBTA Bus Ridership by Time Period, Season, Route/Line, and Stop](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop/about)
+- [MBTA Bus Ridership by Time Period Season Route/Line and Stop - Spring](https://mbta-massdot.opendata.arcgis.com/datasets/MassDOT::mbta-bus-ridership-by-time-period-season-route-line-and-stop-spring/about)
 
 **Performance: Explore data sets that assess how well the MBTA system is operating.**
 
-- Title: MBTA Bus Arrival Departure Times 2018. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2018/about
-- Title: MBTA Bus Arrival Departure Times 2019. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2019/about
-- Title: MBTA Bus Arrival Departure Times 2020. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2020/about
-- Title: MBTA Bus Arrival Departure Times 2021. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2021/about
-- Title: MBTA Bus Arrival Departure Times 2022. Source: https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2022/about
+- [MBTA Bus Arrival Departure Times 2018](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2018/about)
+- [MBTA Bus Arrival Departure Times 2019](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2019/about)
+- [MBTA Bus Arrival Departure Times 2020](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2020/about)
+- [MBTA Bus Arrival Departure Times 2021](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2021/about)
+- [MBTA Bus Arrival Departure Times 2022](https://mbta-massdot.opendata.arcgis.com/datasets/mbta-bus-arrival-departure-times-2022/about)
 
 
 ## Project partners
