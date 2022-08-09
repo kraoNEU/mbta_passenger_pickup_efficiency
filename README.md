@@ -6,7 +6,7 @@ With Recent developments in technology in the domain of Data Science and Machine
 
 # Data Sources
 
-## Intiall Exploration: The Data is being taken from the MBTA's latest V3 API:**<br>
+## Intiall Exploration: The Data is being taken from the MBTA's latest V3 API: <br>
 
 - [MBTA Documentation for V3 API](https://api-v3.mbta.com/docs/swagger/index.html)
 - [MBTA V3 API Key Request](https://api-v3.mbta.com/portal)
