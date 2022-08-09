@@ -52,3 +52,11 @@ This figure could be reproduced by `make app1`
 
 ## Stakeholder for the Project
 Ilia is working on a consulting project for the [MBTA](https://www.linkedin.com/posts/be-edge_meet-the-team-massachusetts-bay-transportation-activity-6940316466185416704-K4YX?utm_source=linkedin_share&utm_medium=member_desktop_web). The consulting team, whom Ilia is working with, did not have time to analyze MBTA public data to make a data driven decision. Ilia presented this challenge to Krishna and Nicholas. We all decided to work together to analyze the MBTA public data and share our findings with the consulting team and our MBTA stakeholder, Eric Burkman, Director of Transit Priority at MBTA.
+
+## Stakeholder Story
+The consulting team is interested to understand the volume in Fall 2022 by analysing ridership dataset. The datasets shared with us does not have any information after Fall 2019. The challenge that our team took on was to create a model that would predict the the Fall 2022 volume based on 3 years of data (2016-2019).
+
+Also, they are interested to understand the delay and volume for each route and comparing to the average for similar routes in the same municipality. 
+
+## Next Steps
+Build a web interface that will allow the stakeholder to choose parameters for analysis. The visualization show on a map to summarise the volume and delays for each bus route. 
